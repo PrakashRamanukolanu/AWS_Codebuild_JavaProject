@@ -10,7 +10,7 @@ public class HelloWorldController {
 	public String welcomPage()
 	{
 		// logger.info("welcomPage");
-		return "hello Prakash";
+		return "HELLO PRAKASH, WELCOME!!!";
 	}
 	
 	@GetMapping("/hello")
